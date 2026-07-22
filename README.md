@@ -1,6 +1,8 @@
-
 <h1 align="center">Hi 👋, I'm Abishek V</h1>
-<h3 align="center">Aspiring Business Analyst | AI & Data Science Undergrad | IoT Builder</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF9D&center=true&vCenter=true&width=650&lines=Aspiring+Business+Analyst;AI+%26+Data+Science+Undergrad;Requirement+Gathering+%7C+Gap+Analysis;IoT+%26+Embedded+Systems+Builder;Turning+Data+Into+Decisions" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://abishekvlabs.github.io"><img src="https://img.shields.io/badge/Portfolio-abishekvlabs.github.io-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=00ff9d" /></a>
@@ -22,26 +24,20 @@
 
 ### 🧰 Skills & Tools
 
-**Business Analysis**
-![Requirement Gathering](https://img.shields.io/badge/-Requirement%20Gathering-1a1a2e?style=flat-square)
-![Gap Analysis](https://img.shields.io/badge/-Gap%20Analysis-1a1a2e?style=flat-square)
-![Documentation](https://img.shields.io/badge/-Documentation-1a1a2e?style=flat-square)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=excel,powerbi,mysql,jira,figma&theme=dark" />
+</p>
 
-**Tools**
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI%20(Basic)-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,cpp,py,linux&theme=dark" />
+</p>
 
-**Frameworks & Languages**
-![Agile](https://img.shields.io/badge/-Agile-0E76A8?style=flat-square)
-![SDLC](https://img.shields.io/badge/-SDLC-0E76A8?style=flat-square)
-![SQL](https://img.shields.io/badge/-SQL%20(Basic)-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**IoT & Embedded Systems**
-![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Sensor Integration](https://img.shields.io/badge/-Sensor%20Integration-333333?style=flat-square)
+| Category | Skills |
+|---|---|
+| 📋 Business Analysis | Requirement Gathering · Gap Analysis · Documentation |
+| 🧩 Frameworks | Agile · SDLC |
+| 🔧 IoT & Embedded | ESP32-CAM · ESP32 · Arduino · Sensor Integration |
+| 🤝 Soft Skills | Communication · Problem-Solving · Teamwork · Adaptability · Time Management |
 
 ---
 
@@ -87,3 +83,4 @@ ESP32-CAM + PIR sensor based automated surveillance system with real-time motion
 </p>
 
 <p align="center"><i>"Turning data into decisions."</i></p>
+
