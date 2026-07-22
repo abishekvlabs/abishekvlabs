@@ -42,7 +42,7 @@
 <img src="https://img.icons8.com/color/48/mysql-logo.png" width="40"/><br><sub><b>SQL</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://img.icons8.com/color/48/agile-development.png" width="40"/><br><sub><b>Agile</b></sub>
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f504.png" width="40"/><br><sub><b>Agile</b></sub>
 </td>
 </tr>
 <tr>
@@ -53,7 +53,7 @@
 <img src="https://img.icons8.com/color/48/processor.png" width="40"/><br><sub><b>ESP32</b></sub>
 </td>
 <td align="center" width="96">
-<img src="https://img.icons8.com/color/48/internet-of-things.png" width="40"/><br><sub><b>IoT</b></sub>
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4e1.png" width="40"/><br><sub><b>IoT</b></sub>
 </td>
 <td align="center" width="96">
 <img src="https://img.icons8.com/color/48/linux.png" width="40"/><br><sub><b>Linux</b></sub>
