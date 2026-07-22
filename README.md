@@ -24,13 +24,48 @@
 
 ### 🧰 Skills & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=excel,powerbi,mysql,jira,figma&theme=dark" />
-</p>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,cpp,py,linux&theme=dark" />
-</p>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40"/><br><sub><b>Excel</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/power-bi.png" width="40"/><br><sub><b>Power BI</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/jira.png" width="40"/><br><sub><b>JIRA</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" width="40"/><br><sub><b>PowerPoint</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/mysql-logo.png" width="40"/><br><sub><b>SQL</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/agile-development.png" width="40"/><br><sub><b>Agile</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/arduino.png" width="40"/><br><sub><b>Arduino</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/processor.png" width="40"/><br><sub><b>ESP32</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/internet-of-things.png" width="40"/><br><sub><b>IoT</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/linux.png" width="40"/><br><sub><b>Linux</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/git.png" width="40"/><br><sub><b>Git</b></sub>
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/figma.png" width="40"/><br><sub><b>Figma</b></sub>
+</td>
+</tr>
+</table>
 
 | Category | Skills |
 |---|---|
@@ -83,4 +118,3 @@ ESP32-CAM + PIR sensor based automated surveillance system with real-time motion
 </p>
 
 <p align="center"><i>"Turning data into decisions."</i></p>
-
