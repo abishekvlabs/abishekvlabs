@@ -1,120 +1,211 @@
-<h1 align="center">Hi 👋, I'm Abishek V</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00FF9D&center=true&vCenter=true&width=650&lines=Aspiring+Business+Analyst;AI+%26+Data+Science+Undergrad;Requirement+Gathering+%7C+Gap+Analysis;IoT+%26+Embedded+Systems+Builder;Turning+Data+Into+Decisions" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:1a1a2e,100:00ff9d&height=200&section=header&text=ABISHEK%20V&fontSize=55&fontColor=00ff9d&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Business%20Analyst%20%7C%20AI%20%26%20Data%20Science&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://abishekvlabs.github.io"><img src="https://img.shields.io/badge/Portfolio-abishekvlabs.github.io-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=00ff9d" /></a>
-  <a href="https://linkedin.com/in/abishekv05"><img src="https://img.shields.io/badge/LinkedIn-abishekv05-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:abishekvijaykumar2005@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00FF9D&center=true&vCenter=true&width=600&height=45&lines=Aspiring+Business+Analyst;Requirements+Elicitation+%26+BRD%2FFRD;Gap+Analysis+%26+Stakeholder+Management;SQL+%7C+Power+BI+%7C+Agile%2FScrum;Turning+Data+Into+Decisions" alt="Typing SVG" />
+
+<br>
+
+<a href="https://abishekvlabs.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-abishekvlabs.github.io-0f2027?style=for-the-badge&logo=googlechrome&logoColor=00ff9d&labelColor=1a1a2e" /></a>
+<a href="https://linkedin.com/in/abishekv05"><img src="https://img.shields.io/badge/LINKEDIN-abishekv05-0f2027?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=1a1a2e" /></a>
+<a href="mailto:abishekvijaykumar2005@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact%20Me-0f2027?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=1a1a2e" /></a>
+
+</div>
+
+<br>
+
+## 🧭 About Me
+
+<img align="right" width="260" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4c8.png"/>
+
+- 🎓 Final-year **B.Tech, Artificial Intelligence & Data Science** — AAA College of Engineering and Technology *(CGPA: 8.04/10, 2027)*
+- 📊 Aspiring **Business Analyst** with hands-on experience in requirements elicitation, BRD/FRD documentation, gap analysis, and stakeholder management — across **4 internships and 4 live projects**
+- 🛠️ Delivered 3+ application modules through structured requirement analysis, product design documentation, and UAT support
+- 🏅 Certified in **13+ programs** from IBM, Microsoft, Google, and Oracle
+- 📍 Madurai, Tamil Nadu, India
+
+<br clear="right"/>
 
 ---
 
-### 🎯 About Me
+## 🧰 Skills & Tools
 
-- 🎓 Final-year **B.Tech in Artificial Intelligence & Data Science**, AAA College of Engineering and Technology (2027) — CGPA 8.04/10
-- 📊 Actively seeking **fresher Business Analyst** roles — skilled in requirement gathering, gap analysis, and data-driven decision making
-- 🔧 Strong technical foundation from IoT/embedded systems and software development internships
-- 🌱 Currently sharpening SQL, Power BI, and Agile/JIRA workflows
-- 📍 Based in Madurai, Tamil Nadu
-
----
-
-### 🧰 Skills & Tools
+<div align="center">
 
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="40"/><br><sub><b>Excel</b></sub>
+<td align="center" width="110">
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="42"/><br><sub><b>Excel</b></sub>
 </td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/power-bi.png" width="40"/><br><sub><b>Power BI</b></sub>
+<td align="center" width="110">
+<img src="https://img.icons8.com/color/48/power-bi.png" width="42"/><br><sub><b>Power BI</b></sub>
 </td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/jira.png" width="40"/><br><sub><b>JIRA</b></sub>
+<td align="center" width="110">
+<img src="https://img.icons8.com/color/48/jira.png" width="42"/><br><sub><b>JIRA</b></sub>
 </td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" width="40"/><br><sub><b>PowerPoint</b></sub>
+<td align="center" width="110">
+<img src="https://img.icons8.com/color/48/microsoft-powerpoint-2019--v1.png" width="42"/><br><sub><b>PowerPoint</b></sub>
 </td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/mysql-logo.png" width="40"/><br><sub><b>SQL</b></sub>
+<td align="center" width="110">
+<img src="https://img.icons8.com/color/48/mysql-logo.png" width="42"/><br><sub><b>SQL</b></sub>
 </td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f504.png" width="40"/><br><sub><b>Agile</b></sub>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f504.png" width="42"/><br><sub><b>Agile</b></sub>
 </td>
 </tr>
 <tr>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/arduino.png" width="40"/><br><sub><b>Arduino</b></sub>
+<td align="center" width="110">
+<img src="https://img.icons8.com/color/48/arduino.png" width="42"/><br><sub><b>Arduino</b></sub>
 </td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/processor.png" width="40"/><br><sub><b>ESP32</b></sub>
+<td align="center" width="110">
+<img src="https://img.icons8.com/color/48/processor.png" width="42"/><br><sub><b>ESP32</b></sub>
 </td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4e1.png" width="40"/><br><sub><b>IoT</b></sub>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4e1.png" width="42"/><br><sub><b>IoT</b></sub>
 </td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/linux.png" width="40"/><br><sub><b>Linux</b></sub>
+<td align="center" width="110">
+<img src="https://img.icons8.com/color/48/linux.png" width="42"/><br><sub><b>Linux</b></sub>
 </td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/git.png" width="40"/><br><sub><b>Git</b></sub>
+<td align="center" width="110">
+<img src="https://img.icons8.com/color/48/git.png" width="42"/><br><sub><b>Git</b></sub>
 </td>
-<td align="center" width="96">
-<img src="https://img.icons8.com/color/48/figma.png" width="40"/><br><sub><b>Figma</b></sub>
+<td align="center" width="110">
+<img src="https://img.icons8.com/color/48/figma.png" width="42"/><br><sub><b>Figma</b></sub>
 </td>
 </tr>
 </table>
 
-| Category | Skills |
-|---|---|
-| 📋 Business Analysis | Requirement Gathering · Gap Analysis · Documentation |
-| 🧩 Frameworks | Agile · SDLC |
-| 🔧 IoT & Embedded | ESP32-CAM · ESP32 · Arduino · Sensor Integration |
-| 🤝 Soft Skills | Communication · Problem-Solving · Teamwork · Adaptability · Time Management |
+</div>
+
+<br>
+
+<div align="center">
+
+| 📋 Business Analysis | 🧩 Frameworks | 🔧 IoT & Embedded | 🤝 Soft Skills |
+|:---:|:---:|:---:|:---:|
+| Requirements Elicitation & Analysis | Agile & Scrum | ESP32-CAM | Stakeholder Communication |
+| BRD/FRD Documentation | SDLC | Sensor Integration | Problem-Solving |
+| Gap Analysis & UAT Support | User Stories & Sprint Planning | Real-time Monitoring | Team Collaboration |
+
+</div>
 
 ---
 
-### 💼 Experience
+## 💼 Experience
 
-**Developer Intern** — Mintomax Solutions, Madurai *(Dec 2025 – Jan 2026)*
-Contributed to application module development, debugging, and testing across the software team.
+<table>
+<tr>
+<td width="10%" align="center">🖥️</td>
+<td width="90%">
 
-**IoT Intern** — KV Technology Services, Madurai *(Jun 2025 – Jul 2025)*
-Built a Smart Motion Detection Camera System using ESP32-CAM and PIR sensors, delivering a low-cost real-time surveillance prototype.
+**Developer Intern** · Mintomax Solutions, Madurai
+<br><sub>Dec 2025 – Jan 2026</sub>
+<br>Gathered and documented technical requirements for 3+ application modules through structured requirements elicitation, aligning deliverables with project timelines. Authored functional specifications, conducted UAT, and resolved 10+ defects.
 
----
+</td>
+</tr>
+<tr>
+<td align="center">📡</td>
+<td>
 
-### 🚀 Featured Projects
+**IoT Intern** · KV Technology Services, Madurai
+<br><sub>Jun 2025 – Jul 2025</sub>
+<br>Conducted requirements analysis with end-users and translated business needs into a real-time Smart Motion Detection Camera System using ESP32-CAM and PIR sensors — delivered a functional, low-cost prototype ahead of schedule.
 
-**🛡️ Mission Rudhra X — UGV Defence Surveillance Rover** *(Feb 2026 – Apr 2026)*
-Unmanned Ground Vehicle for remote surveillance with wireless control and live monitoring camera, designed for defence and hazardous environments.
-
-**📷 Smart Motion Detection Camera System (IoT)** *(Jun 2025 – Jul 2025)*
-ESP32-CAM + PIR sensor based automated surveillance system with real-time motion alerts and image capture.
-
----
-
-### 🏆 Certifications & Learning
-
-- Business Analysis Foundations — LinkedIn Learning
-- Lean Six Sigma Foundations — LinkedIn Learning
-- Exploratory Data Analysis for Machine Learning — IBM
-- Oracle Data Platform Certified Foundations — Oracle
-- Tools of the Trade: Linux and SQL — Google
-- Introduction to Corporate Finance — University of Pennsylvania
-- GenAI Basics: How LLMs Work — Duke University
-
-*(Full list on [portfolio](https://abishekvlabs.github.io))*
+</td>
+</tr>
+</table>
 
 ---
 
-### 📫 Reach Me
+## 🚀 Featured Projects
 
-<p align="left">
-  <a href="mailto:abishekvijaykumar2005@gmail.com"><img src="https://img.shields.io/badge/Email-abishekvijaykumar2005%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="tel:+918870016697"><img src="https://img.shields.io/badge/Phone-%2B91%208870016697-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
-</p>
+<table>
+<tr>
+<td width="10%" align="center">🛡️</td>
+<td width="90%">
 
-<p align="center"><i>"Turning data into decisions."</i></p>
+**Mission Rudhra X — UGV Defence Surveillance Rover** <sub>*(Feb 2026 – Jun 2026)*</sub>
+<br><i>Team Lead, Product Designer</i>
+<br>Led product design and functional planning for a multi-application Unmanned Ground Vehicle, documenting specifications for wireless control, sensor integration, and live-monitoring modules used in remote surveillance operations.
+
+</td>
+</tr>
+<tr>
+<td align="center">🚁</td>
+<td>
+
+**Mission Garuda-X — UAV Aerial Surveillance Drone** <sub>*(Jul 2026 – Sep 2026)*</sub>
+<br><i>Team Lead, Product Designer</i>
+<br>Led product design for a modular multi-purpose UAV enabling real-time aerial surveillance, GPS-based navigation, and environmental data collection — adaptable across surveillance and inspection use cases.
+
+</td>
+</tr>
+<tr>
+<td align="center">⚡</td>
+<td>
+
+**Smart IoT Energy Meter** <sub>*(Jun 2025 – Jul 2025)*</sub>
+<br>Co-led requirement analysis and functional documentation for a real-time energy monitoring system, defining acceptance criteria for sensing, cost-estimation, and data-persistence modules, validated against 5 benchmark studies.
+
+</td>
+</tr>
+<tr>
+<td align="center">📷</td>
+<td>
+
+**Smart Motion Detection Camera System** <sub>*(Apr 2025 – Jul 2025)*</sub>
+<br>Designed a cost-effective, automated surveillance system with real-time alerting, reducing detection latency by testing 3 sensor configurations.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Certifications & Learning
+
+<div align="center">
+
+![Business Analysis](https://img.shields.io/badge/Business%20Analysis%20Foundations-LinkedIn%20Learning-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d)
+![Six Sigma](https://img.shields.io/badge/Lean%20Six%20Sigma-LinkedIn%20Learning-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d)
+![IBM](https://img.shields.io/badge/EDA%20for%20ML-IBM-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d)
+![Oracle](https://img.shields.io/badge/Data%20Platform-Oracle-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d)
+![Google](https://img.shields.io/badge/Linux%20%26%20SQL-Google-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d)
+![Penn](https://img.shields.io/badge/Corporate%20Finance-Wharton%2C%20UPenn-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d)
+![Duke](https://img.shields.io/badge/GenAI%20Basics-Duke-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d)
+![Accenture](https://img.shields.io/badge/AI%20Digital%20Skills-Accenture-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d)
+![Microsoft](https://img.shields.io/badge/Computer%20Vision%20%2F%20Azure-Microsoft-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d)
+![TCS](https://img.shields.io/badge/Inventory%20Management-TCS%20iON-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d)
+![HP](https://img.shields.io/badge/Data%20Science%20%26%20Analytics-HP%20LIFE-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d)
+![Zoho](https://img.shields.io/badge/Sales%20Concepts-Zoho-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d)
+![Infosec](https://img.shields.io/badge/Cybersecurity%20Foundations-Infosec-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d)
+
+*Full list on [portfolio →](https://abishekvlabs.github.io)*
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=abishekvlabs&show_icons=true&theme=radical&hide_border=true&bg_color=0f2027&title_color=00ff9d&icon_color=00ff9d&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abishekvlabs&theme=radical&hide_border=true&background=0f2027&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d" width="48%"/>
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+
+<a href="mailto:abishekvijaykumar2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="tel:+918870016697"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://linkedin.com/in/abishekv05"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<i>"Turning data into decisions."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,50:1a1a2e,100:0f2027&height=100&section=footer" width="100%"/>
+
+</div>
