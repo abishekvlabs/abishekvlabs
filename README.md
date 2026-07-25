@@ -16,15 +16,10 @@
 
 ## 🧭 About Me
 
-<div align="center">
+<h3 align="center">💼 Aspiring Business Analyst</h3>
 
-<img src="https://img.shields.io/badge/ASPIRING-BUSINESS%20ANALYST-00ff9d?style=for-the-badge&labelColor=0f2027" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=680&height=32&lines=Requirements+Elicitation+%7C+BRD-FRD+%7C+Gap+Analysis;Stakeholder+Management+%7C+UAT+Support;SQL+%7C+Power+BI+%7C+Advanced+Excel+%7C+JIRA;4%2B+Internships+%7C+4%2B+Live+Projects+%7C+13%2B+Certifications" alt="About Typing SVG" />
-
-</div>
+<p align="center"><i>Requirements Elicitation · BRD/FRD · Gap Analysis · Stakeholder Management · UAT Support</i></p>
+<p align="center"><b>SQL</b> · <b>Power BI</b> · <b>Advanced Excel</b> · <b>JIRA</b> &nbsp;|&nbsp; 4+ Internships · 4+ Live Projects · 13+ Certifications</p>
 
 <br>
 
