@@ -19,9 +19,7 @@
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:8a6d1a&height=55&text=About%20Me&fontSize=24&fontColor=d4af37&fontAlignY=60" width="100%"/>
-</div>
+### <font color="#d4af37">🧭 About Me</font>
 
 Aspiring Business Analyst with hands-on experience in requirements elicitation, BRD/FRD documentation, gap analysis, and stakeholder management — across **4 internships and 4 live projects**. Proficient in SQL, Power BI, Advanced Excel, JIRA, and Agile/Scrum/SDLC methodologies. Delivered 3+ application modules through structured requirement analysis, product design documentation, and UAT support. Certified in **13+ programs** from IBM, Microsoft, Google, and Oracle.
 
@@ -31,9 +29,7 @@ Aspiring Business Analyst with hands-on experience in requirements elicitation, 
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:8a6d1a&height=55&text=Skills%20%26%20Tools&fontSize=24&fontColor=d4af37&fontAlignY=60" width="100%"/>
-</div>
+### <font color="#d4af37">🧰 Skills & Tools</font>
 
 **Business Analysis:** Requirements Elicitation & Analysis · Business Requirement Documentation (BRD/FRD) · Gap Analysis & UAT Support · Stakeholder Communication & Management · Data Analysis & Data Visualization
 
@@ -47,9 +43,7 @@ Aspiring Business Analyst with hands-on experience in requirements elicitation, 
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:8a6d1a&height=55&text=Professional%20Experience&fontSize=24&fontColor=d4af37&fontAlignY=60" width="100%"/>
-</div>
+### <font color="#d4af37">💼 Professional Experience</font>
 
 **Developer Intern** — Mintomax Solutions, Madurai
 *Dec 2025 – Jan 2026*
@@ -61,9 +55,7 @@ Conducted requirements analysis with end-users and translated business needs int
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:8a6d1a&height=55&text=Projects&fontSize=24&fontColor=d4af37&fontAlignY=60" width="100%"/>
-</div>
+### <font color="#d4af37">🚀 Projects</font>
 
 **UGV Rover – Defence Surveillance (Mission Rudhra X)** *(Feb 2026 – Jun 2026)*
 *Team Lead, Product Designer*
@@ -81,9 +73,7 @@ Designed a cost-effective, automated surveillance system with real-time alerting
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:8a6d1a&height=55&text=Education&fontSize=24&fontColor=d4af37&fontAlignY=60" width="100%"/>
-</div>
+### <font color="#d4af37">🎓 Education</font>
 
 **B.Tech, Artificial Intelligence and Data Science**
 AAA College of Engineering and Technology, Virudhunagar, Tamil Nadu | CGPA: 8.04/10 | *2023–2027 (Expected)*
@@ -93,9 +83,7 @@ SAS Techno School, Trichy, Tamil Nadu | Percentage: 70% | *2021–2023*
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:8a6d1a&height=55&text=Certifications%20%26%20Learning&fontSize=24&fontColor=d4af37&fontAlignY=60" width="100%"/>
-</div>
+### <font color="#d4af37">🏆 Certifications & Learning</font>
 
 - Business Analysis Foundations — LinkedIn Learning
 - Lean Six Sigma Foundations — LinkedIn Learning
@@ -116,8 +104,9 @@ SAS Techno School, Trichy, Tamil Nadu | Percentage: 70% | *2021–2023*
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:8a6d1a&height=55&text=GitHub%20Stats&fontSize=24&fontColor=d4af37&fontAlignY=60" width="100%"/>
-<br><br>
+
+### <span style="color:#d4af37">📊 GitHub Stats</span>
+
 <img src="https://github-readme-stats.vercel.app/api?username=abishekvlabs&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=d4af37&icon_color=d4af37&text_color=c9d1d9" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abishekvlabs&theme=radical&hide_border=true&background=1a1a2e&ring=d4af37&fire=d4af37&currStreakLabel=d4af37" width="48%"/>
 </div>
@@ -126,8 +115,7 @@ SAS Techno School, Trichy, Tamil Nadu | Percentage: 70% | *2021–2023*
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:8a6d1a&height=55&text=Let%27s%20Connect&fontSize=24&fontColor=d4af37&fontAlignY=60" width="100%"/>
-<br><br>
+### <span style="color:#d4af37">📫 Let's Connect</span>
 
 <a href="mailto:abishekvijaykumar2005@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=d4af37" /></a>
 <a href="tel:+918870016697"><img src="https://img.shields.io/badge/Call-1a1a2e?style=for-the-badge&logo=whatsapp&logoColor=d4af37" /></a>
