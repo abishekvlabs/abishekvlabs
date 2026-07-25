@@ -16,15 +16,23 @@
 
 ## 🧭 About Me
 
-<img align="right" width="260" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4c8.png"/>
+<div align="center">
+
+<img src="https://img.shields.io/badge/💼_ASPIRING-BUSINESS%20ANALYST-00ff9d?style=for-the-badge&labelColor=0f2027" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=680&height=32&lines=Requirements+Elicitation+%7C+BRD-FRD+%7C+Gap+Analysis;Stakeholder+Management+%7C+UAT+Support;SQL+%7C+Power+BI+%7C+Advanced+Excel+%7C+JIRA;4%2B+Internships+%7C+4%2B+Live+Projects+%7C+13%2B+Certifications" alt="About Typing SVG" />
+
+</div>
+
+<br>
 
 - 🎓 Final-year **B.Tech, Artificial Intelligence & Data Science** — AAA College of Engineering and Technology *(CGPA: 8.04/10, 2027)*
 - 📊 Aspiring **Business Analyst** with hands-on experience in requirements elicitation, BRD/FRD documentation, gap analysis, and stakeholder management — across **4 internships and 4 live projects**
 - 🛠️ Delivered 3+ application modules through structured requirement analysis, product design documentation, and UAT support
 - 🏅 Certified in **13+ programs** from IBM, Microsoft, Google, and Oracle
 - 📍 Madurai, Tamil Nadu, India
-
-<br clear="right"/>
 
 ---
 
@@ -167,19 +175,19 @@
 
 <div align="center">
 
-![Business Analysis](https://img.shields.io/badge/Business%20Analysis%20Foundations-LinkedIn%20Learning-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d)
-![Six Sigma](https://img.shields.io/badge/Lean%20Six%20Sigma-LinkedIn%20Learning-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d)
-![IBM](https://img.shields.io/badge/EDA%20for%20ML-IBM-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d)
-![Oracle](https://img.shields.io/badge/Data%20Platform-Oracle-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d)
-![Google](https://img.shields.io/badge/Linux%20%26%20SQL-Google-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d)
-![Penn](https://img.shields.io/badge/Corporate%20Finance-Wharton%2C%20UPenn-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d)
-![Duke](https://img.shields.io/badge/GenAI%20Basics-Duke-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d)
-![Accenture](https://img.shields.io/badge/AI%20Digital%20Skills-Accenture-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d)
-![Microsoft](https://img.shields.io/badge/Computer%20Vision%20%2F%20Azure-Microsoft-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d)
-![TCS](https://img.shields.io/badge/Inventory%20Management-TCS%20iON-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d)
-![HP](https://img.shields.io/badge/Data%20Science%20%26%20Analytics-HP%20LIFE-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d)
-![Zoho](https://img.shields.io/badge/Sales%20Concepts-Zoho-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d)
-![Infosec](https://img.shields.io/badge/Cybersecurity%20Foundations-Infosec-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d)
+<a href="https://abishekvlabs.github.io#certifications"><img src="https://img.shields.io/badge/Business%20Analysis%20Foundations-LinkedIn%20Learning-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d" /></a>
+<a href="https://abishekvlabs.github.io#certifications"><img src="https://img.shields.io/badge/Lean%20Six%20Sigma-LinkedIn%20Learning-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d" /></a>
+<a href="https://abishekvlabs.github.io#certifications"><img src="https://img.shields.io/badge/EDA%20for%20ML-IBM-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d" /></a>
+<a href="https://abishekvlabs.github.io#certifications"><img src="https://img.shields.io/badge/Data%20Platform-Oracle-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d" /></a>
+<a href="https://abishekvlabs.github.io#certifications"><img src="https://img.shields.io/badge/Linux%20%26%20SQL-Google-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d" /></a>
+<a href="https://abishekvlabs.github.io#certifications"><img src="https://img.shields.io/badge/Corporate%20Finance-Wharton%2C%20UPenn-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d" /></a>
+<a href="https://abishekvlabs.github.io#certifications"><img src="https://img.shields.io/badge/GenAI%20Basics-Duke-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d" /></a>
+<a href="https://abishekvlabs.github.io#certifications"><img src="https://img.shields.io/badge/AI%20Digital%20Skills-Accenture-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d" /></a>
+<a href="https://abishekvlabs.github.io#certifications"><img src="https://img.shields.io/badge/Computer%20Vision%20%2F%20Azure-Microsoft-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d" /></a>
+<a href="https://abishekvlabs.github.io#certifications"><img src="https://img.shields.io/badge/Inventory%20Management-TCS%20iON-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d" /></a>
+<a href="https://abishekvlabs.github.io#certifications"><img src="https://img.shields.io/badge/Data%20Science%20%26%20Analytics-HP%20LIFE-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d" /></a>
+<a href="https://abishekvlabs.github.io#certifications"><img src="https://img.shields.io/badge/Sales%20Concepts-Zoho-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d" /></a>
+<a href="https://abishekvlabs.github.io#certifications"><img src="https://img.shields.io/badge/Cybersecurity%20Foundations-Infosec-0f2027?style=flat-square&labelColor=1a1a2e&color=00ff9d" /></a>
 
 *Full list on [portfolio →](https://abishekvlabs.github.io)*
 
@@ -200,9 +208,26 @@
 
 ### 📫 Let's Connect
 
+<table>
+<tr>
+<td align="center">
 <a href="mailto:abishekvijaykumar2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</td>
+<td align="center">
 <a href="tel:+918870016697"><img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+</td>
+<td align="center">
 <a href="https://linkedin.com/in/abishekv05"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</td>
+<td align="center">
+<a href="https://abishekvlabs.github.io"><img src="https://img.shields.io/badge/Portfolio-00ff9d?style=for-the-badge&logo=googlechrome&logoColor=0f2027" /></a>
+</td>
+</tr>
+</table>
+
+<sub>📍 Madurai, Tamil Nadu — 625001</sub>
+
+<br>
 
 <i>"Turning data into decisions."</i>
 
