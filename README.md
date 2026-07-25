@@ -1,11 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00ff9d&height=220&section=header&text=ABISHEK%20V&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Business%20Analyst&descAlignY=55&descSize=20&descColor=00ff9d" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:8a6d1a,100:d4af37&height=220&section=header&text=ABISHEK%20V&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Business%20Analyst&descAlignY=55&descSize=20&descColor=d4af37" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Aspiring+Business+Analyst;Requirements+Elicitation+%26+BRD%2FFRD;Gap+Analysis+%26+Stakeholder+Management;SQL+%7C+Power+BI+%7C+Agile%2FScrum" alt="Typing SVG" />
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="180"/>
 
-📍 Madurai, Tamil Nadu &nbsp;|&nbsp; 📧 abishekvijaykumar2005@gmail.com &nbsp;|&nbsp; 📱 +91 8870016697
-🔗 [Portfolio](https://abishekvlabs.github.io) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/abishekv05)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Aspiring+Business+Analyst;Requirements+Elicitation+%26+BRD%2FFRD;Gap+Analysis+%26+Stakeholder+Management;SQL+%7C+Power+BI+%7C+Agile%2FScrum" alt="Typing SVG" />
+
+<br>
+
+<a href="mailto:abishekvijaykumar2005@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=d4af37" /></a>
+<a href="tel:+918870016697"><img src="https://img.shields.io/badge/Call-1a1a2e?style=for-the-badge&logo=whatsapp&logoColor=d4af37" /></a>
+<a href="https://linkedin.com/in/abishekv05"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=d4af37" /></a>
+<a href="https://abishekvlabs.github.io"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=d4af37" /></a>
+
+<sub>📍 Madurai, Tamil Nadu — 625001</sub>
 
 </div>
 
@@ -98,8 +106,8 @@ SAS Techno School, Trichy, Tamil Nadu | Percentage: 70% | *2021–2023*
 ## GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abishekvlabs&show_icons=true&theme=radical&hide_border=true&bg_color=0f2027&title_color=00ff9d&icon_color=00ff9d&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abishekvlabs&theme=radical&hide_border=true&background=0f2027&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abishekvlabs&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=d4af37&icon_color=d4af37&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abishekvlabs&theme=radical&hide_border=true&background=1a1a2e&ring=d4af37&fire=d4af37&currStreakLabel=d4af37" width="48%"/>
 </div>
 
 ---
@@ -108,13 +116,13 @@ SAS Techno School, Trichy, Tamil Nadu | Percentage: 70% | *2021–2023*
 
 ## Let's Connect
 
-📧 [abishekvijaykumar2005@gmail.com](mailto:abishekvijaykumar2005@gmail.com)
-📱 +91 8870016697
-🔗 [linkedin.com/in/abishekv05](https://linkedin.com/in/abishekv05)
-🌐 [abishekvlabs.github.io](https://abishekvlabs.github.io)
+<a href="mailto:abishekvijaykumar2005@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=d4af37" /></a>
+<a href="tel:+918870016697"><img src="https://img.shields.io/badge/Call-1a1a2e?style=for-the-badge&logo=whatsapp&logoColor=d4af37" /></a>
+<a href="https://linkedin.com/in/abishekv05"><img src="https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=d4af37" /></a>
+<a href="https://abishekvlabs.github.io"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=googlechrome&logoColor=d4af37" /></a>
 
 *"Turning data into decisions."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d4af37,50:8a6d1a,100:1a1a2e&height=120&section=footer" width="100%"/>
 
 </div>
