@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/💼_ASPIRING-BUSINESS%20ANALYST-00ff9d?style=for-the-badge&labelColor=0f2027" />
+<img src="https://img.shields.io/badge/ASPIRING-BUSINESS%20ANALYST-00ff9d?style=for-the-badge&labelColor=0f2027" />
 
 <br><br>
 
