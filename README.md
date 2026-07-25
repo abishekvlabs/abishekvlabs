@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:8a6d1a,100:d4af37&height=220&section=header&text=ABISHEK%20V&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Business%20Analyst&descAlignY=55&descSize=20&descColor=d4af37" width="100%"/>
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNThuenJlNmVycmx3eWQwazc0NnJtZ2Qyd3ltNG13NW5hazR3ODB1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZZl8MetzKTl5tLGEUI/giphy.gif" width="220"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Aspiring+Business+Analyst;Requirements+Elicitation+%26+BRD%2FFRD;Gap+Analysis+%26+Stakeholder+Management;SQL+%7C+Power+BI+%7C+Agile%2FScrum" alt="Typing SVG" />
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="150"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=Aspiring+Business+Analyst;Requirements+Elicitation+%26+BRD%2FFRD;Gap+Analysis+%26+Stakeholder+Management;SQL+%7C+Power+BI+%7C+Agile%2FScrum" alt="Typing SVG" />
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="150"/>
 
 <br>
 
@@ -19,7 +19,9 @@
 
 ---
 
-## About Me
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:8a6d1a&height=55&text=About%20Me&fontSize=24&fontColor=d4af37&fontAlignY=60" width="100%"/>
+</div>
 
 Aspiring Business Analyst with hands-on experience in requirements elicitation, BRD/FRD documentation, gap analysis, and stakeholder management — across **4 internships and 4 live projects**. Proficient in SQL, Power BI, Advanced Excel, JIRA, and Agile/Scrum/SDLC methodologies. Delivered 3+ application modules through structured requirement analysis, product design documentation, and UAT support. Certified in **13+ programs** from IBM, Microsoft, Google, and Oracle.
 
@@ -29,7 +31,9 @@ Aspiring Business Analyst with hands-on experience in requirements elicitation, 
 
 ---
 
-## Skills & Tools
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:8a6d1a&height=55&text=Skills%20%26%20Tools&fontSize=24&fontColor=d4af37&fontAlignY=60" width="100%"/>
+</div>
 
 **Business Analysis:** Requirements Elicitation & Analysis · Business Requirement Documentation (BRD/FRD) · Gap Analysis & UAT Support · Stakeholder Communication & Management · Data Analysis & Data Visualization
 
@@ -43,7 +47,9 @@ Aspiring Business Analyst with hands-on experience in requirements elicitation, 
 
 ---
 
-## Professional Experience
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:8a6d1a&height=55&text=Professional%20Experience&fontSize=24&fontColor=d4af37&fontAlignY=60" width="100%"/>
+</div>
 
 **Developer Intern** — Mintomax Solutions, Madurai
 *Dec 2025 – Jan 2026*
@@ -55,7 +61,9 @@ Conducted requirements analysis with end-users and translated business needs int
 
 ---
 
-## Projects
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:8a6d1a&height=55&text=Projects&fontSize=24&fontColor=d4af37&fontAlignY=60" width="100%"/>
+</div>
 
 **UGV Rover – Defence Surveillance (Mission Rudhra X)** *(Feb 2026 – Jun 2026)*
 *Team Lead, Product Designer*
@@ -73,7 +81,9 @@ Designed a cost-effective, automated surveillance system with real-time alerting
 
 ---
 
-## Education
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:8a6d1a&height=55&text=Education&fontSize=24&fontColor=d4af37&fontAlignY=60" width="100%"/>
+</div>
 
 **B.Tech, Artificial Intelligence and Data Science**
 AAA College of Engineering and Technology, Virudhunagar, Tamil Nadu | CGPA: 8.04/10 | *2023–2027 (Expected)*
@@ -83,7 +93,9 @@ SAS Techno School, Trichy, Tamil Nadu | Percentage: 70% | *2021–2023*
 
 ---
 
-## Certifications & Learning
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:8a6d1a&height=55&text=Certifications%20%26%20Learning&fontSize=24&fontColor=d4af37&fontAlignY=60" width="100%"/>
+</div>
 
 - Business Analysis Foundations — LinkedIn Learning
 - Lean Six Sigma Foundations — LinkedIn Learning
@@ -103,9 +115,9 @@ SAS Techno School, Trichy, Tamil Nadu | Percentage: 70% | *2021–2023*
 
 ---
 
-## GitHub Stats
-
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:8a6d1a&height=55&text=GitHub%20Stats&fontSize=24&fontColor=d4af37&fontAlignY=60" width="100%"/>
+<br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=abishekvlabs&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=d4af37&icon_color=d4af37&text_color=c9d1d9" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abishekvlabs&theme=radical&hide_border=true&background=1a1a2e&ring=d4af37&fire=d4af37&currStreakLabel=d4af37" width="48%"/>
 </div>
@@ -114,7 +126,8 @@ SAS Techno School, Trichy, Tamil Nadu | Percentage: 70% | *2021–2023*
 
 <div align="center">
 
-## Let's Connect
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:8a6d1a&height=55&text=Let%27s%20Connect&fontSize=24&fontColor=d4af37&fontAlignY=60" width="100%"/>
+<br><br>
 
 <a href="mailto:abishekvijaykumar2005@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=d4af37" /></a>
 <a href="tel:+918870016697"><img src="https://img.shields.io/badge/Call-1a1a2e?style=for-the-badge&logo=whatsapp&logoColor=d4af37" /></a>
