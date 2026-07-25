@@ -21,7 +21,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=custom&customHeight=60&color=000000&text=ABOUT%20ME&fontColor=FFD700&fontSize=28&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=000000&text=ABOUT%20ME&fontColor=FFD700&fontSize=28&fontAlignY=45" width="100%"/>
 
 <table width="100%">
 <tr>
@@ -40,7 +40,7 @@ Across 4 internships and 4 live projects, I've combined analytical rigor (SQL, P
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=custom&customHeight=60&color=000000&text=TECH%20ARSENAL&fontColor=FFD700&fontSize=28&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=000000&text=TECH%20ARSENAL&fontColor=FFD700&fontSize=28&fontAlignY=45" width="100%"/>
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=py,cpp,arduino,html,css,js,git,github,vscode,figma,mysql&theme=dark" />
@@ -55,7 +55,7 @@ Across 4 internships and 4 live projects, I've combined analytical rigor (SQL, P
 ![ESP32](https://img.shields.io/badge/ESP32--CAM-000000?style=for-the-badge&logo=espressif&logoColor=FFD700)
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=custom&customHeight=60&color=000000&text=EXPERIENCE&fontColor=FFD700&fontSize=28&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=000000&text=EXPERIENCE&fontColor=FFD700&fontSize=28&fontAlignY=45" width="100%"/>
 
 <details open>
 <summary><b>🧩 Developer Intern — Mintomax Solutions, Madurai</b> &nbsp; <code>Dec 2025 – Jan 2026</code></summary>
@@ -76,7 +76,7 @@ Across 4 internships and 4 live projects, I've combined analytical rigor (SQL, P
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=custom&customHeight=60&color=000000&text=FLAGSHIP%20PROJECTS&fontColor=FFD700&fontSize=28&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=000000&text=FLAGSHIP%20PROJECTS&fontColor=FFD700&fontSize=28&fontAlignY=45" width="100%"/>
 
 <table width="100%">
 <tr>
@@ -113,7 +113,7 @@ Cost-effective automated surveillance system — reduced detection latency acros
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=custom&customHeight=60&color=000000&text=CERTIFICATIONS&fontColor=FFD700&fontSize=28&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=000000&text=CERTIFICATIONS&fontColor=FFD700&fontSize=28&fontAlignY=45" width="100%"/>
 
 <table width="100%">
 <tr><td width="50%">🏅 Business Analysis Foundations — <i>LinkedIn Learning</i></td><td width="50%">🏅 Exploratory Data Analysis for ML — <i>IBM</i></td></tr>
@@ -125,7 +125,7 @@ Cost-effective automated surveillance system — reduced detection latency acros
 <tr><td colspan="2">🏅 Data Science & Analytics — <i>HP LIFE</i></td></tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=custom&customHeight=60&color=000000&text=GITHUB%20ANALYTICS&fontColor=FFD700&fontSize=28&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=000000&text=GITHUB%20ANALYTICS&fontColor=FFD700&fontSize=28&fontAlignY=45" width="100%"/>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=abishekvlabs&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=ffffff" width="49%"/>
