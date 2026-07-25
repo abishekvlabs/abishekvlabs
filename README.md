@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:8a6d1a,100:d4af37&height=220&section=header&text=ABISHEK%20V&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Business%20Analyst&descAlignY=55&descSize=20&descColor=d4af37" width="100%"/>
 
-<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="180"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNThuenJlNmVycmx3eWQwazc0NnJtZ2Qyd3ltNG13NW5hazR3ODB1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZZl8MetzKTl5tLGEUI/giphy.gif" width="220"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=600&lines=Aspiring+Business+Analyst;Requirements+Elicitation+%26+BRD%2FFRD;Gap+Analysis+%26+Stakeholder+Management;SQL+%7C+Power+BI+%7C+Agile%2FScrum" alt="Typing SVG" />
 
