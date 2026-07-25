@@ -1,9 +1,13 @@
-# Abishek V
+<div align="center">
 
-### Aspiring Business Analyst | AI & Data Science Undergrad
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00ff9d&height=220&section=header&text=ABISHEK%20V&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Business%20Analyst&descAlignY=55&descSize=20&descColor=00ff9d" width="100%"/>
 
-📍 Madurai, Tamil Nadu | 📧 abishekvijaykumar2005@gmail.com | 📱 +91 8870016697
-🔗 [Portfolio](https://abishekvlabs.github.io) · [LinkedIn](https://linkedin.com/in/abishekv05)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Aspiring+Business+Analyst;Requirements+Elicitation+%26+BRD%2FFRD;Gap+Analysis+%26+Stakeholder+Management;SQL+%7C+Power+BI+%7C+Agile%2FScrum" alt="Typing SVG" />
+
+📍 Madurai, Tamil Nadu &nbsp;|&nbsp; 📧 abishekvijaykumar2005@gmail.com &nbsp;|&nbsp; 📱 +91 8870016697
+🔗 [Portfolio](https://abishekvlabs.github.io) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/abishekv05)
+
+</div>
 
 ---
 
@@ -91,6 +95,17 @@ SAS Techno School, Trichy, Tamil Nadu | Percentage: 70% | *2021–2023*
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=abishekvlabs&show_icons=true&theme=radical&hide_border=true&bg_color=0f2027&title_color=00ff9d&icon_color=00ff9d&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abishekvlabs&theme=radical&hide_border=true&background=0f2027&ring=00ff9d&fire=00ff9d&currStreakLabel=00ff9d" width="48%"/>
+</div>
+
+---
+
+<div align="center">
+
 ## Let's Connect
 
 📧 [abishekvijaykumar2005@gmail.com](mailto:abishekvijaykumar2005@gmail.com)
@@ -99,3 +114,7 @@ SAS Techno School, Trichy, Tamil Nadu | Percentage: 70% | *2021–2023*
 🌐 [abishekvlabs.github.io](https://abishekvlabs.github.io)
 
 *"Turning data into decisions."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9d,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+
+</div>
